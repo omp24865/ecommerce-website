@@ -1,5 +1,4 @@
 # E-Commerce Website
-
 This is a simple e-commerce website developed using HTML, CSS Grid, and JavaScript.
 
 ## Features
